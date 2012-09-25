@@ -1,0 +1,9 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Environment]
+"PHP_PEAR_SYSCONF_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7"
+"PHP_PEAR_INSTALL_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7\\pear"
+"PHP_PEAR_DOC_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7\\docs"
+"PHP_PEAR_BIN_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7"
+"PHP_PEAR_DATA_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7\\data"
+"PHP_PEAR_PHP_BIN"="C:\\OpenServer\\modules\\php\\PHP-5.4.7\\php.exe"
+"PHP_PEAR_TEST_DIR"="C:\\OpenServer\\modules\\php\\PHP-5.4.7\\tests"
